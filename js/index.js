@@ -1,4 +1,3 @@
-document.title = "Multi Personal Portfolio";
 const header = document.querySelector("header");
 const nav = document.querySelector("nav");
 const allLis = document.querySelectorAll("nav ul li");
